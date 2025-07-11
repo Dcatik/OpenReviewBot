@@ -1,0 +1,6 @@
+.env
+.env.*
+!.env.example
+reviews.db
+__pycache__/
+*.pyc
